@@ -17,7 +17,7 @@ Microservicio desarrollado en **Java Spring Boot** con conexión a **PostgreSQL*
 1. **Clona el repositorio y entra al proyecto:**
    ```sh
    git clone <repo-url>
-   cd AmarisLogInMicroservice/authapi
+   cd AmarisLogInMicroservice
    ```
 2. **Configura la base de datos PostgreSQL:**
    ```sql
