@@ -59,8 +59,8 @@ La API estará disponible en `http://localhost:8080`.
 
 ## 🧪 Pruebas con Postman
 
-1. Importa la colección `PostmanCollectionLogInLogs.json` incluida en el repo.
-2. Realiza login y copia el token para probar los endpoints protegidos.
+1. Importa la colección `PostmanCollectionLogInLogs.json` incluida en el correo electrónico.
+2. Realiza login y ejecuta el /api/auth/me la colección ya tiene automatizado el uso del token de acceso de consumo.
 
 ---
 
